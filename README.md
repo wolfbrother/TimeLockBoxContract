@@ -1,2 +1,9 @@
 # TimeLockBoxContract
-solidity contract for timeLockBox
+
+## 功能
++ 可以存入ETH和erc20代币，存入时均指定存储期限，存储期限到了之后才能取回
++ 存入时会获得凭证号码，存储期限到了之后，凭凭证号码取回资金
++ 取回的资金，返回存入资金时的原地址
+
+
+
